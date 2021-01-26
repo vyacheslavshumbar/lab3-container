@@ -18,7 +18,7 @@ int main()
   string opt = "ACGT";
   string s = "";
   string s_last = "";
-  int len_str = 13;
+  int len_str = 14;
   bool change_next;
   for (int i=0; i<len_str; i++)
   {

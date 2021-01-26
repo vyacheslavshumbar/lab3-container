@@ -1,0 +1,33 @@
+ERROR: Unable to locate a modulefile for 'python'
+Tiempo de ejecuccion 13 k-meros con python
+
+Start
+
+real	1m39,683s
+user	1m39,532s
+sys	0m0,006s
+
+Tiempo de ejecuccion 14 k-meros con python
+
+Start
+
+real	6m38,444s
+user	6m37,869s
+sys	0m0,003s
+
+Tiempo de ejecuccion 13 k-meros con C
+
+Start
+
+real	0m0,676s
+user	0m0,674s
+sys	0m0,001s
+
+Tiempo de ejecuccion 14 k-meros con C
+
+Start
+
+real	0m2,780s
+user	0m2,776s
+sys	0m0,001s
+
